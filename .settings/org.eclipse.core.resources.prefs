@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/blog.sql=UTF-8
+encoding//src/main/java/com/jfinal/bean/Blog.java=GBK
+encoding//src/main/java/com/jfinal/common/DemoConfig.java=UTF-8
+encoding//src/main/java/com/jfinal/controller/BlogController.java=GBK
+encoding//src/main/java/com/jfinal/controller/BlogValidator.java=UTF-8
+encoding//src/main/webapp/blog/_form.html=UTF-8
+encoding//src/main/webapp/blog/add.html=UTF-8
+encoding//src/main/webapp/blog/blog.html=UTF-8
+encoding//src/main/webapp/blog/edit.html=UTF-8
+encoding//src/main/webapp/common/index.html=UTF-8
